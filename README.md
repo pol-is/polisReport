@@ -1,4 +1,4 @@
-## NOTE: This project has been archived in favor of the monorepo setup at https://github.com/pol-is/polis.
+## NOTE: This project has been archived in favor of the monorepo setup at https://github.com/compdemocracy/polis.
 
 <br/>
 
